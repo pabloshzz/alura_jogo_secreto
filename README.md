@@ -2,4 +2,4 @@
 
 ## 📚 Sobre
 
-Projeto inspirado nos cursos de lógica de programção da [Alura](https://www.alura.com.br/).
+Projeto inspirado nos cursos de lógica de programação da [Alura](https://www.alura.com.br/).
